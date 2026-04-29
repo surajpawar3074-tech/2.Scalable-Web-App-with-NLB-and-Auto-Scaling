@@ -54,8 +54,8 @@ Output
 - Application successfully running via **NLB DNS**
 - Traffic distributed efficiently with **low latency**
 
-<img width="602" height="177" alt="Picture2 5" src="https://github.com/user-attachments/assets/8ac4f298-5d03-4712-baed-167baa9227f3" />
+<img width="810" height="188" alt="Screenshot 2026-04-29 145104" src="https://github.com/user-attachments/assets/fec73e97-d2c4-4384-80cf-5ec4cf266ae6" />
 
-<img width="602" height="177" alt="Picture2 6" src="https://github.com/user-attachments/assets/b8ee8440-a48c-42d0-b251-68402ce53414" />
+<img width="802" height="198" alt="image" src="https://github.com/user-attachments/assets/347ee3f3-d8de-4cd2-9cd1-1b0781f2ca61" />
 
-<img width="602" height="177" alt="Picture2 7" src="https://github.com/user-attachments/assets/109d4137-6458-40b9-b4a9-e7d87626b033" />
+<img width="798" height="195" alt="image" src="https://github.com/user-attachments/assets/255e5bb6-bc30-4385-8c69-e57c5665668b" />
