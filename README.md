@@ -61,3 +61,6 @@ Output
 <img width="802" height="198" alt="image" src="https://github.com/user-attachments/assets/347ee3f3-d8de-4cd2-9cd1-1b0781f2ca61" />
 
 <img width="798" height="195" alt="image" src="https://github.com/user-attachments/assets/255e5bb6-bc30-4385-8c69-e57c5665668b" />
+
+## Conclusion
+This project successfully demonstrates a **low-latency, high-performance scalable architecture** using AWS NLB and Auto Scaling.
