@@ -49,6 +49,8 @@ User → Network Load Balancer → Target Group → EC2 Instances (Auto Scaling 
 
 <img width="602" height="95" alt="Picture2 3" src="https://github.com/user-attachments/assets/64c6773a-6e26-4f9c-aa02-cab8bd286d93" />
 
+
+
 Output
 
 - Application successfully running via **NLB DNS**
